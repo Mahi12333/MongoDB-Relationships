@@ -3,7 +3,7 @@ import { DB_NAME } from "../db_tbl.js";
 
 const connectDB = async () => {
     try {
-        await mongoose.connect('', {
+        await mongoose.connect('#', {
             useNewUrlParser: true,
             useUnifiedTopology: true,
         });
