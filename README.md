@@ -37,7 +37,7 @@ This project demonstrates how to model relationships in MongoDB using Mongoose. 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mongodb-relationships.git
+   git clone https://github.com/Mahi12333/MongoDB-Relationships.git
    cd mongodb-relationships
    npm install
   MONGO_URI=mongodb://localhost:27017/yourdbname
